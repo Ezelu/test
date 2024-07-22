@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.micro {
+  color: var(--primary-blue);
+}
+
+.dropdown-parent-container {
+  background: pink;
+  height: 100px;
+}
